@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GitHub\main\KoalaKarts\Assets\Scripts\NetworkManager.cs">
+    <Files>
+      <File FileName="..\GitHub\main\KoalaKarts\Assets\Scripts\NetworkManager.cs" Line="82" Column="1" />
+      <File FileName="Assets\NetworkManager.cs" Line="31" Column="3" />
+      <File FileName="Assets\Player.cs" Line="10" Column="3" />
+      <File FileName="..\GitHub\main\KoalaKarts\Assets\Scripts\OnlineKartController.cs" Line="6" Column="2" />
+      <File FileName="..\GitHub\main\KoalaKarts\Assets\Scripts\KartController.cs" Line="197" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

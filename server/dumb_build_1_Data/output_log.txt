@@ -1,0 +1,17 @@
+Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce GTX 550 Ti
+    Vendor:   NVIDIA
+    VRAM:     1997 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Connor\Documents\server\dumb_build_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Connor\Documents\server\dumb_build_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Connor\Documents\server\dumb_build_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Connor\Documents\server\dumb_build_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
